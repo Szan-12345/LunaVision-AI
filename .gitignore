@@ -1,0 +1,11 @@
+.venv/
+venv/
+env/
+**/__pycache__/
+data/
+datasets/
+outputs/
+
+# Target your actual image dataset folders
+Distorted\ images/
+Distortion-free\ images/
